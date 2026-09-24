@@ -1,0 +1,6 @@
+*.o
+*.exe
+ppm_processor
+*.ppm
+.DS_Store
+.vscode/
